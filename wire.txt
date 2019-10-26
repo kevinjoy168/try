@@ -1,5 +1,4 @@
-foremost 
-protocol
+ protocol
 daunting
 usability
 audience
